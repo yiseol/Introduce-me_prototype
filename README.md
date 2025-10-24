@@ -207,29 +207,6 @@ introduce-me_prototype/
 └── 📖 README.md               # 프로젝트 문서
 ```
 
-## 🤝 기여하기
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 라이센스
-
-이 프로젝트는 MIT 라이센스 하에 배포됩니다. 자세한 내용은 `LICENSE` 파일을 참조하세요.
-
-## 📞 연락처
-
-- **GitHub**: [@yiseol](https://github.com/yiseol)
-- **Project Link**: [https://github.com/yiseol/Introduce-me_prototype](https://github.com/yiseol/Introduce-me_prototype)
-
----
-
-<div align="center">
-
-**⭐ 이 프로젝트가 도움이 되었다면 Star를 눌러주세요! ⭐**
-
 Made with ❤️ by [yiseol](https://github.com/yiseol)
 
 </div>
